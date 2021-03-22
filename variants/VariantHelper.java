@@ -1,7 +1,9 @@
 package variants;
 
 import java.util.Scanner;
-
+// @license MIT license
+// @author Seth Herendeen
+// 2021
 public class VariantHelper {
 	
 	public final static String ALPHABET = 
